@@ -1,0 +1,18 @@
+design patterns in c++:  https://www.udemy.com/course/patterns-cplusplus/ 
+advanced c++: https://www.udemy.com/course/beg-modern-cpp/?utm_source=adwords&utm_medium=udemyads&utm_campaign=LongTail_la.EN_cc.INDIA&utm_content=deal4584&utm_term=_._ag_77882236463_._ad_680351373992_._kw__._de_c_._dm__._pl__._ti_dsa-1007766171312_._li_9298936_._pd__._&matchtype=&gad_source=1&gclid=EAIaIQobChMIjdr0uuDSggMVA4BLBR09GQQCEAAYASAAEgLvk_D_BwE
+
+1. dsa
+2. c++ => effective c++, effective modern c++, more effective c++
+3. cppcon
+4. oops => head first design patterns, design patterns pearson(advanced)
+5. os => operating system concepts, 
+6. networks => bits and bytes of cn(coursera), tcp and ip advanced topics by university of colorado(coursera)
+7. system design => designing data intensive application(book)
+
+math puzzles: cut-th-knot.org  brainstellar.com
+
+math: introduction to probabiliy and statistics for engineers and scientists by sheldon m ross
+
+a practical guide to quant finance interviews
+fifty challenging problems in probabiliy
+
